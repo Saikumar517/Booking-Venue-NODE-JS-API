@@ -6,7 +6,7 @@ const {
   deleteSlot,
   approveOrRejectslot,
   singleSlot,
-} = require("../controllers/bookingController");
+} = require("../controllerss/bookingController");
 // importing the contollers
 const roleChecker = require("../utils/roleChecker");
 

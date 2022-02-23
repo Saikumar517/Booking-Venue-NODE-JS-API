@@ -5,7 +5,7 @@ const {
   getSingleVenue,
   updateVenue,
   deleteVenue,
-} = require("../controllers/venuesController");
+} = require("../controllerss/venuesController");
 
 const router = express.Router();
 
